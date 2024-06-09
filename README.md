@@ -1,2 +1,1 @@
-# COVID19-Data-Analysis
-This project includes a comprehensive analysis and visualization of COVID-19 data, utilizing SQL for data exploration and Power BI for dashboard creation.
+In this project, I have utilized MySQL queries to explore and analyze COVID-19 data comprehensively. The data exploration phase involved executing various SQL queries to extract meaningful insights and trends from the raw data. Following the data exploration, the query results were exported and saved in Excel format. These Excel files were then imported into Power BI, where I designed and created an interactive dashboard to visualize the insights derived from the data.
